@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 import java.util.Arrays;
-
+// checking this thing whether my commit has done properly or not1
 @SpringBootApplication
 public class Application {
 
